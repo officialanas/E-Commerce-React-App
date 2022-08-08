@@ -130,7 +130,7 @@ const Footer = () => {
           <PhoneIcon style={{ marginRight: "10px" }} /> 8318554125
         </ContactItem>
         <ContactItem>
-          <MailOutlineIcon style={{ marginRight: "10px" }} /> anas@ansari
+          <MailOutlineIcon style={{ marginRight: "10px" }} /> anas.@ansari
         </ContactItem>
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
       </Right>
